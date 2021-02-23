@@ -1,6 +1,10 @@
-# Budget
+# Budgets
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
+
+## Website
+
+https://budgetappangular.netlify.app/enterBudget
 
 ## Development server
 
